@@ -1,6 +1,6 @@
 # Single-Session-CLI-Chatbot-AI
 
-Ini adalah script tunggal python yang berfungsi untuk mengakses Gemini AI menggunakan API dari (Google Studio AI)[https://aistudio.google.com/api-keys]
+Ini adalah script tunggal python yang berfungsi untuk mengakses Gemini AI menggunakan API dari [Google Studio AI](https://aistudio.google.com/api-keys)
 
 Script ini baru dapat dijalankan di Termux atau lingkungan Python lainnya.
 

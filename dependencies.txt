@@ -1,0 +1,8 @@
+python
+git
+clang
+make
+wget
+curl
+nano
+vim
